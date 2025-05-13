@@ -363,3 +363,5 @@ function sum(a){
     }
 }
 console.log(sum(2)(3)(5));
+
+console.log("Hello Harish");
